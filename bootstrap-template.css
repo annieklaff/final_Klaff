@@ -6,12 +6,22 @@
 
 .accordion-button:not(.collapsed), .accordion-button:focus {
 	font-family: 'Rasa', serif;
-	background-color: #F5FAF8;
+	background-color: #F3F3F3;
 	color: #566A73;
 	margin-bottom: 10px;
 }
+
+.accordion-body {
+	font-family: 'Rasa', serif;
+	color: #566A73;
+}
+
+a {
+	color:#BC4749;
+}
+
 .footer p {
-	background-color: #F5FAF8;
+	background-color: #F3F3F3;
 	font-family: 'Rasa', serif;
 	text-align: center;
 	font-size: 20px;
@@ -54,3 +64,38 @@ p {
   	width: 50%;
 }
 
+img {
+	text-align: center;
+	width: 100%;
+	margin-left: 50%;
+}
+
+.col-md-12 p {
+	margin-top: 5px;
+}
+
+.list-group-numbered {
+	font-family:'Rasa', serif;
+	color: #34344A;
+}
+
+h4 {
+	font-family:'Rasa', serif;
+	font-weight: bold;
+}
+
+.caption {
+	font-style: italic;
+	color: #BC4749;
+	text-align: center;
+	margin-left: 50%;
+	width: 100%;
+}
+
+a:hover{
+	color: #D9CFC1;
+}
+
+.col-md-4 {
+	color:#34344A ;
+}

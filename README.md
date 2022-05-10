@@ -1,2 +1,2 @@
-# final_Klaff
-Final project: Annie Klaff
+# bootstrap-template
+In-class Bootstrap practice to create final template
